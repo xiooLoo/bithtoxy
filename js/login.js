@@ -12,7 +12,7 @@ $('#login-button').click(function (event) {
 			},2000);
 		}
 	else{
-		alert("宝宝，你的生日可以11月22日哦~");
+		alert("宝宝，你的生日可是11月22日哦~");
 	}
 });
 
